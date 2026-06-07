@@ -25,3 +25,8 @@ yarn-error.log
 debug_*.php
 ticket2u*.html
 QUICK_START.zip
+
+# Sensitive docs containing real API keys
+HOSTINGER_DEPLOYMENT_GUIDE.md
+PRODUCTION_READY_CHECKLIST.md
+IMPORTANT_PRODUCTION_FIX.md
